@@ -1,4 +1,6 @@
 body {
+    background-color: rgb(213,227,246);
+    color: rgb(0,0,139);
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -31,6 +33,7 @@ h1 {
 #kepeiffel
 {    
     margin: 0 10px;
+    float: right;
 }
 
 #keplouvre {    
@@ -74,3 +77,24 @@ table, table th, table td
   text-align: center;
 }
 
+
+#fejlec{
+    background-image: url("notredame.jpg");
+    height: 200px;
+    font-size: 48px;
+    text-align: center;
+}
+
+h2{
+    font-size: 18pt;
+    text-decoration: underline;
+}
+
+h3{
+    font-size: 14pt;
+    font-style: italic;
+}
+
+th{
+    text-align: center;
+}
